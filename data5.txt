@@ -1,0 +1,100 @@
+Meier,33,3.4,+Tudore,+Bermann,+Gifhorn,-Hof,-Schulze,+Gutenberg,+Gere,-Becker,-Nielssen,+Gandalf,+Merkel
+Mueller,100,4.0,+Podolski,+Troy,+Schulze,-Kokot,-Goldman,+Luedenscheid,-Seydel,+Wheeler,+Horn,-Fricke,+Lorek
+Schulze,33,2.0,+Krigge,+Ullrich,+Schulze,-Vogel,-Picasso,-Obama,+Everton,-Schiller,-Miraculix,-Shakespeare,-Horn
+Berg,33,2.4,+Blum,+Kokot,-Topp,+Lehmann,+Hammbuechen,+Schulze,+Spinner,-Shakespeare,+Ey,-Gysi,-Valdez
+Hof,66,1.3,-Schuster,-Gandalf,-Mueller,+Fricke,+Shakespeare,+Everton,+Merkel,-Obama,-Sirtis,-Cleopatra,+Obama
+Fischer,66,3.5,-Wheeler,-Graf,-Goldman,-Bermann,-Schuster,-Obama,-Shakespeare,-Frakes,-Goldsmith,+Topp,+Novak
+Topp,33,2.7,+Stuart,-Lohmann,+Ohlhoff,-Lorek,-Monet,+Muentefering,-Chestnut,-Gere,+Mann,-Novak,-Goldsmith
+Ey,100,3.7,+Valdez,-Picasso,+Gollum,-Mozart,+Gandalf,-Chestnut,-Schuster,+Paul,+MacFadden,-Sirtis,+Jackson
+Luedenscheid,66,2.0,+El Azizi,+Vogel,-Gere,-Goethe,-Bush,+Hamlet,+Hamlet,-Steinmeier,+Woddard,-Hof,-Blum
+Schmid,66,1.5,-Troubardix,+Mann,-Ey,-Merkel,-Valdez,+Lehmann,-Tudore,-Tudore,+Gere,-Schulze,-Goldman
+Hoffmann,66,2.5,-Lehmann,+Schuster,-Lorek,-Meier,-Winchester,-Schroeder,-Valdez,-Gere,+Hoffmann,-Fischer,+Seydel
+Merkel,33,2.1,+Everton,-Winter,-Mozart,+Novak,-Gifhorn,+Steinmeier,+Mahler,+Steinmeier,-Podolski,+Paul,-Blum
+Muentefering,100,4.0,-Merkel,+Herden,-Hamlet,+Hefner,+Picasso,-Miraculix,-Mahler,-Paul,+Topp,-Miraculix,-Meier
+Gysi,66,3.7,-Luedenscheid,-Burton,+Troubardix,-Geier,+Podolski,-Bermann,-Chestnut,-Geier,+Mahler,-Lutter,+Gifhorn
+Seydel,66,1.1,-Becker,-Merkel,+Luedenscheid,+Kokot,-Vogel,-Krull,-El Azizi,-Lutter,+Gollum,+Fricke,-Berg
+Geier,100,2.9,-Vogel,+Hefner,-Danker,-Woddard,+Tudore,+Mann,+Bermann,-Gysi,-Frakes,-Winter,+Geier
+Jackson,66,2.9,-Becker,-Monet,-Otten,+Horn,+Cleopatra,-Muentefering,+Cicero,+Danker,-Schiller,+Shakespeare,-Frodo
+Steinmeier,100,2.0,+Picasso,-Kokot,+Troubardix,-Fischer,+Gifhorn,-Lau,-Luedenscheid,-Lehmann,-Vogel,+Obama,+Vogel
+Schroeder,100,3.0,-Dede,-Frodo,-Leonetti,-Fricke,-Dede,-Ey,+Lutter,+Topp,-Hamlet,-Cleopatra,+Hamlet
+Obama,100,1.9,+Paul,+Podolski,-Meier,-Mann,+Bermann,-Mozart,+Schiller,+Muentefering,-Mahler,-Monet,+Frakes
+Bush,33,2.1,-Frodo,+Bach,+Hof,+Catul,+Berg,+Goldman,-Caesar,-Bermann,+Goethe,-Herden,+Shakespeare
+Becker,100,2.1,+Nielssen,-Mann,-Gere,+Danker,-Bermann,+Krigge,+MacFadden,-Leonetti,-Shakespeare,-Luedenscheid,+Geier
+Lehmann,33,2.0,+Kokot,+Paul,+Tudore,+Dede,+Cleopatra,-Woddard,+Astrix,-Dede,+Lorek,+Ullrich,+Frakes
+Fricke,100,2.8,-Everton,+Picasso,-Catul,+Herden,-Kokot,-MacFadden,-Krigge,-Mann,+Ey,+Schmid,+Gutenberg
+Franke,100,1.4,-Ullrich,+Ullrich,+Geier,+Gysi,+Goldman,+Hamlet,-Hof,+Lehmann,+Catul,+Frodo,-Topp
+Lorek,66,3.6,+Paul,-Meier,+Fischer,+Caesar,-Winchester,+Fricke,-Everton,+Ullrich,-Pruessner,+Hamlet,-Seydel
+Kokot,100,2.7,+MacFadden,+MacFadden,+Krull,-Ohlhoff,-Podolski,+Woddard,+Goethe,+Cullen,+Muentefering,-Franke,+Schroeder
+Schuster,66,2.8,-Goldsmith,+Ey,-Woddard,+Topp,+Paul,-Dede,-Pruessner,-Valdez,+Constantin,+Mitterand,+Cicero
+Podolski,100,2.3,+Shakespeare,-Cullen,+Wheeler,+Nielssen,+Geier,+Miraculix,+Oberon,+Gandalf,+Seydel,-Fischer,-Topp
+Pruessner,100,1.8,-Franke,-Gere,-Berg,-Everton,-Hopper,-Lutter,+Catul,-Herden,-Chestnut,+Burton,-Bermann
+Otten,66,3.0,-Ohlhoff,-Frodo,+Becker,-Franke,+Ullrich,+Meier,-Kokot,+Gutenberg,-Luedenscheid,-Danker,+Beethoven
+Mahler,100,4.0,+Lohmann,-Gutenberg,+MacFadden,+Troy,-Horn,+Fricke,-Troubardix,-Franke,+Schmid,+Graf,+Becker
+El Azizi,33,3.9,-Obelix,-Blum,+Schuster,-Muentefering,+Schmid,-Cicero,-Schuster,+Hammbuechen,+Gutenberg,+Spinner,+Muentefering
+Mitterand,33,3.3,-Graf,+Astrix,-Frodo,-Luedenscheid,+Bach,-Mozart,-Caesar,-Krull,-Schmid,+Becker,+Winchester
+Novak,100,2.6,-Lorek,+Dede,-Bermann,-Cleopatra,-Herden,-Wheeler,-Wheeler,+Burton,+Topp,-Pruessner,-Shakespeare
+Hammbuechen,100,3.9,-Goldman,-Chestnut,-El Azizi,+Merkel,-Seydel,+Schroeder,-El Azizi,+Spinner,+Jackson,+Mozart,+Leonetti
+Lutter,33,4.0,+Lorek,+Ullrich,+Hoffmann,+Schulze,+Seydel,-Leonetti,-Krull,+Steinmeier,-Geier,+Lutter,+Miraculix
+Gutenberg,66,1.0,+Stuart,+Cullen,-Gysi,+Krigge,+Herden,+Gysi,+Luedenscheid,+El Azizi,-Berg,-Bach,-Lehmann
+Goethe,100,2.2,+Jackson,-MacFadden,-Tudore,+Luedenscheid,-Graf,-Muentefering,-Podolski,+Everton,-Lorek,+Steinmeier,+Vogel
+Schiller,33,3.4,-Podolski,-Gollum,+Ey,-Hof,+Luedenscheid,+Lutter,-Schuster,-Geier,-Gysi,-Podolski,-Novak
+Shakespeare,66,3.6,-Podolski,+Obama,+Krigge,-Spinner,-Schiller,-Nielssen,+Luedenscheid,+Hammbuechen,-Mahler,+Lutter,-Gollum
+Mann,100,2.1,-Merkel,-Ullrich,+Hammbuechen,-Schroeder,+Berg,-Luedenscheid,-Miraculix,-Spinner,+Vogel,-Lorek,+Goldsmith
+Ohlhoff,100,3.0,+Gere,-Ey,-Franke,+Stuart,-Frodo,+Valdez,-El Azizi,-Horn,-Gutenberg,+Muentefering,+Jackson
+Monet,66,3.8,+Sirtis,-Bermann,-Miraculix,-Valdez,-Stuart,-MacFadden,+Everton,+Schmid,+Krigge,+Hamlet,+Graf
+Picasso,33,1.9,+Schroeder,-Picasso,+Steinmeier,+Ullrich,-Danker,-Schroeder,+Schiller,-Hof,+Monet,+Tudore,+Frodo
+Gifhorn,100,4.0,-Schiller,+Tudore,-Sirtis,-Schuster,-Lehmann,+Gysi,-Hamlet,-Troubardix,-Oberon,-Steinmeier,+Gifhorn
+Danker,66,2.7,-Frodo,+Hoffmann,-Bach,-Goldman,+Hof,+Meier,-Chestnut,+Troy,-Mann,+Hopper,+Bermann
+Lohmann,66,2.2,-Woddard,-Steinmeier,+Gollum,+Herden,-Wheeler,-Mitterand,-Bush,+Astrix,-Hamlet,-Winter,-Hopper
+Winter,33,3.6,-Franke,+Schiller,+Herden,-Tudore,-Pruessner,+Astrix,-Schiller,+Frodo,+MacFadden,+Ullrich,+MacFadden
+Herden,100,2.3,+Krull,+Schroeder,+Mann,-Bermann,+Cicero,-Hammbuechen,+Berg,+Ullrich,-Winter,-Mann,-Leonetti
+Blum,33,2.7,+Herden,-Dede,+Lorek,-Lorek,+Mueller,-Hoffmann,-Fricke,-Fricke,+Fricke,-Goldsmith,-Picasso
+Obelix,66,3.3,-Geier,+Bach,+Winchester,-Mann,-Obelix,+Lau,+Sirtis,-Ey,-Kokot,-Bush,+Sirtis
+Astrix,66,2.7,+Geier,+Obama,+Ohlhoff,+Jackson,+Astrix,-Muentefering,-Frodo,-Spinner,+Muentefering,-Novak,+Catul
+Miraculix,100,1.1,+Schmid,+Miraculix,+Caesar,+Ey,-Caesar,+Schroeder,-Schuster,-Everton,+Everton,-Berg,+Jackson
+Troubardix,100,3.7,+Lau,-Shakespeare,+Schmid,+El Azizi,+Fricke,+Bermann,+Constantin,+Kokot,+Cleopatra,-Danker,+Schiller
+Bach,33,3.4,-Obelix,-Sirtis,-Goldsmith,+Krull,-Podolski,+Gere,+Troubardix,-Schroeder,-Lorek,-Wheeler,+Gysi
+Beethoven,100,1.5,-Astrix,+Lorek,+Mueller,-Frakes,+Luedenscheid,-Hopper,-Chestnut,-Pruessner,+Troy,-Goethe,-Fricke
+Mozart,100,1.4,+Pruessner,+Lorek,+Frakes,-Mueller,-Gollum,-Cleopatra,-Astrix,-Hoffmann,-Luedenscheid,-Schulze,-Cleopatra
+Hefner,100,2.3,+Mann,-Wheeler,+Dede,+Berg,-Horn,+Mueller,+Gandalf,+Woddard,+Frakes,-Becker,+Ullrich
+Bermann,100,2.8,-Becker,-Troy,+El Azizi,-Bach,+Goldsmith,+Ey,+Monet,-Everton,+Obama,-Chestnut,+Pruessner
+Stuart,66,1.2,-Beethoven,-Shakespeare,+Leonetti,+Schuster,-Valdez,+Tudore,-Everton,-Goethe,+Luedenscheid,-Schiller,-Seydel
+Frakes,66,1.4,-Burton,+Seydel,+Fricke,+Vogel,+Frakes,-Tudore,-Constantin,+Mueller,+Becker,-Kokot,+Hopper
+Spinner,66,1.0,+Constantin,-Schroeder,-Mitterand,-Kokot,-Picasso,+Stuart,+Troy,+Constantin,-Hopper,+Schuster,+Blum
+Burton,66,1.0,+Burton,-Lohmann,+Vogel,+Gandalf,-Hoffmann,+Ullrich,+Goldsmith,+Danker,-Topp,+Mitterand,+Schmid
+MacFadden,100,1.2,-Cullen,-Paul,+Lorek,-Schroeder,-Chestnut,-Mitterand,+Schiller,-Beethoven,-Constantin,+Cleopatra,+Novak
+Sirtis,66,2.6,+Gutenberg,+Graf,-Nielssen,-Mitterand,-Fricke,-Cullen,+Lehmann,+Frakes,+Gollum,-Becker,+Paul
+Troy,66,2.3,+Leonetti,-Berg,-Mann,-Gandalf,+Ullrich,-Monet,-Obama,+Woddard,-Picasso,+Vogel,+Schmid
+Woddard,66,2.6,-Meier,+Hefner,-Wheeler,+Berg,-Miraculix,-Jackson,-Podolski,+Topp,-Obama,+Sirtis,-Topp
+Krigge,100,2.0,+Hamlet,-Graf,-Stuart,+Woddard,+Blum,+Jackson,+Hoffmann,-Constantin,-Stuart,+Lutter,-Obama
+Goldsmith,33,4.0,-Shakespeare,-Beethoven,-Muentefering,+Goldsmith,+Gandalf,+Schuster,+Lohmann,-Bush,+El Azizi,-Gifhorn,-MacFadden
+Winchester,66,3.6,+Schuster,-Blum,-Astrix,+Lau,-Seydel,-Goethe,-Lehmann,+Podolski,-Jackson,+Topp,+Hoffmann
+Goldman,66,1.8,+Novak,+Obama,-Lorek,+Goldman,-Goldsmith,+Luedenscheid,-Goldman,-Hof,+Cullen,+El Azizi,-Troy
+Everton,66,1.6,-Gutenberg,-Frakes,-Caesar,+Paul,+Oberon,-Obelix,-Sirtis,-Gollum,-Krigge,+Obelix,-Geier
+Dede,100,1.6,+Lehmann,-Dede,-Pruessner,+Monet,+Spinner,-Krigge,+Stuart,-Mueller,-Schulze,+Schiller,+Goldsmith
+Wheeler,66,3.2,+Mozart,-Muentefering,-Constantin,-Jackson,-Picasso,+Danker,-Wheeler,-Mahler,+Vogel,-Luedenscheid,-Schmid
+Valdez,100,1.6,+Lau,-Fricke,-Merkel,-Franke,-Monet,+Beethoven,-Ohlhoff,-Podolski,-Cleopatra,+Lohmann,-Frodo
+Leonetti,33,2.1,+Woddard,-Geier,-Podolski,+Leonetti,+Vogel,+Gysi,+Gollum,-Schroeder,+Novak,+Herden,-Mueller
+Horn,33,3.0,-Chestnut,-El Azizi,-Obelix,-Gandalf,+Seydel,-Frakes,+Vogel,+Dede,+Schulze,-Goldsmith,+Mozart
+Nielssen,33,3.0,+Winchester,+Lau,-Mann,+Berg,+Novak,+Bush,-Gandalf,+Gere,-Hopper,+Fricke,+Bush
+Cullen,33,1.4,+Hoffmann,-Gifhorn,+Gandalf,-Troy,+Becker,+Everton,+Tudore,+Cicero,-Gutenberg,-Schuster,-Goldman
+Gollum,66,2.5,+Vogel,+Miraculix,-Jackson,-Herden,-Mozart,+Gifhorn,-Franke,+Krull,-Schiller,-Troy,-Vogel
+Frodo,33,3.8,+Astrix,+Graf,+Schmid,-Winter,-Schroeder,-Bermann,-Cleopatra,+Leonetti,-Sirtis,-Seydel,-Mann
+Gandalf,33,2.4,+Everton,+Hammbuechen,+Oberon,+Lehmann,+Monet,+Gutenberg,-Frodo,-Ullrich,-Dede,+Cicero,-Bermann
+Constantin,100,2.1,-Luedenscheid,-Berg,+Schroeder,+Merkel,+Lohmann,-Gysi,+MacFadden,-Dede,-Cullen,-Gandalf,-Obama
+Gere,33,2.8,+Becker,-MacFadden,-Steinmeier,-Lorek,+Sirtis,-Ohlhoff,+Cicero,-Schulze,-Hefner,-Schmid,+Schmid
+Graf,66,1.0,+Ohlhoff,-Mahler,+Gandalf,+Miraculix,+Bush,-Hopper,-Hof,+Geier,+Cullen,-Blum,+Beethoven
+Hopper,33,1.8,-Gutenberg,+Jackson,+Ey,+Ohlhoff,-Tudore,-Schmid,+Fischer,-Lutter,+Fischer,+Constantin,+Beethoven
+Vogel,33,1.7,-Novak,-Schuster,+Schuster,-Seydel,-Podolski,+Goldman,-Gutenberg,+Goldman,-Tudore,+Picasso,-Krigge
+Lau,33,1.1,+Lutter,-MacFadden,+Nielssen,+Obama,+Gysi,-Graf,-Gollum,+Kokot,+Topp,+Sirtis,+Seydel
+Ullrich,100,3.8,+Bach,-Danker,-Goldman,-Frakes,-Burton,+Lohmann,+Wheeler,+Becker,-Miraculix,-Everton,+Valdez
+Paul,33,2.1,+Otten,+El Azizi,+Goethe,-Frodo,+Spinner,-Hamlet,-Beethoven,-Gere,+Franke,+Schmid,+Picasso
+Hamlet,100,2.3,+Leonetti,+Troubardix,-Mitterand,+Geier,+Mozart,-Podolski,-Schulze,-Goldsmith,+Topp,+Gere,-Geier
+Oberon,100,1.5,-Nielssen,-Winchester,+Goldsmith,+Monet,+Herden,-Novak,+Goldman,-Seydel,-Danker,+Ullrich,-Lutter
+Tudore,33,1.2,+Graf,+Mitterand,+Gandalf,-Paul,+Becker,-Steinmeier,+Podolski,+Merkel,-Monet,+El Azizi,-Ey
+Cicero,66,1.5,+El Azizi,+Hoffmann,+Mann,-Lohmann,+Cleopatra,+El Azizi,+Goldsmith,+Nielssen,+Lohmann,+Meier,-Oberon
+Caesar,33,2.2,+Podolski,-Mitterand,-Schiller,+Schulze,+Fricke,+Blum,-Spinner,+Obelix,-Spinner,-Oberon,+Seydel
+Cleopatra,33,1.5,+Otten,+Woddard,-Woddard,+Monet,-Hopper,+Obelix,+Mahler,-Goldman,-Miraculix,+Graf,+Cleopatra
+Chestnut,100,3.4,-Hamlet,-Lehmann,+Leonetti,+Bach,+Otten,-Topp,-El Azizi,-Picasso,+Hopper,-Geier,-Podolski
+Krull,66,1.5,-Hopper,-Ey,-Novak,+Muentefering,-Obelix,-Herden,+Lau,+Cullen,+Nielssen,-Goldsmith,+Kokot
+Catul,100,2.3,+Berg,-Muentefering,+Cicero,+Gollum,-Ullrich,+Picasso,-Caesar,-Valdez,+Astrix,-MacFadden,+Goldman

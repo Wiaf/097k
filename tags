@@ -1,0 +1,59 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.7	//
+Analyse	analys02.c	/^void Analyse ( void )$/;"	f
+Analyse	logic.c	/^void Analyse ( void )$/;"	f
+Analyse	logic.orig.c	/^void Analyse ( void )$/;"	f
+BeautyStr	util.c	/^void BeautyStr ( char * Src )$/;"	f
+CleanString	util.c	/^char * CleanString (char * src )$/;"	f
+CompLikes	liobs.c	/^int	CompLikes	( int GroupNr, int StudentNr )$/;"	f
+ComputeDiff	analys02.c	/^float ComputeDiff(float FloatWert1, float FloatWert2){$/;"	f
+ComputeDiff	logic.c	/^float ComputeDiff(float FloatWert1, float FloatWert2){$/;"	f
+ComputeDiff	logic.orig.c	/^float ComputeDiff(float FloatWert1, float FloatWert2){$/;"	f
+ConcatStudent	liobs.c	/^void  ConcatStudent  ( int ThisGroup , Student * q ) \/* -1 = Student, sonst GruppenNr *\/$/;"	f
+CreateAllGroups	objects.c	/^void CreateAllGroups   ( void ) $/;"	f
+CreateStudent	objects.c	/^Student * CreateStudent ( char * Name, int Rel, float Mark, char * Liking )$/;"	f
+FILIO	filio.c	5;"	d	file:
+FindGroup	analys02.c	/^void FindGroup(int ThisStudi, int MaxGroup){$/;"	f
+FindGroup	logic.c	/^void FindGroup(int ThisStudi)$/;"	f
+FindGroup	logic.orig.c	/^void FindGroup(int ThisStudi)$/;"	f
+GenerateMatrix	objects.c	/^void  GenerateMatrix     ( void )$/;"	f
+GenerateStudiArray	objects.c	/^void GenerateStudiArray ()$/;"	f
+GetAmountGroups	objects.c	/^int * GetAmountGroups (void)$/;"	f
+GetAmountStudents	objects.c	/^int * GetAmountStudents ( void )$/;"	f
+GetAvs	objects.c	/^Avergae * GetAvs (void)$/;"	f
+GetBlock	objects.c	/^int ** GetBlock (void)$/;"	f
+GetGroupStruct	objects.c	/^Group *** GetGroupStruct (void)$/;"	f
+GetGroups	objects.c	/^int  GetGroups   ( void )  { return *(GetAmountGroups   () ); }$/;"	f
+GetLastStudent	objects.c	/^Student ** GetLastStudent ( void ) $/;"	f
+GetLastStudentOfGroup	objects.c	/^Student *** GetLastStudentOfGroup (void)$/;"	f
+GetMatrix	objects.c	/^int *** GetMatrix ( void )$/;"	f
+GetRelValue	objects.c	/^int * GetRelValue ( void )$/;"	f
+GetReliability	objects.c	/^int * GetReliability (void)$/;"	f
+GetStudents	objects.c	/^int  GetStudents ( void )  { return *(GetAmountStudents () ); }$/;"	f
+GetStudiList	objects.c	/^Student ** GetStudiList (void)$/;"	f
+GetStudiStruct	objects.c	/^Student *** GetStudiStruct (void)$/;"	f
+InitLiobs	liobs.c	/^void InitLiobs ( void )$/;"	f
+LIOBS	liobs.c	9;"	d	file:
+LOGIC	analys02.c	7;"	d	file:
+LOGIC	logic.c	7;"	d	file:
+LOGIC	logic.orig.c	7;"	d	file:
+MakeBlocks	objects.c	/^void MakeBlocks ( void ) $/;"	f
+MallocFehler	util.c	/^void MallocFehler ( size_t Count )$/;"	f
+MergeSort	objects.c	/^static int *  MergeSort(int * ToSort, int Len)$/;"	f	file:
+MyMalloc	util.c	/^char * MyMalloc ( size_t Count )$/;"	f
+MyStrDup	util.c	/^char * MyStrDup (char * Text)$/;"	f
+OBJECTS	objects.c	9;"	d	file:
+PreCreateStudent	filio.c	/^static int PreCreateStudent (char * Line)$/;"	f	file:
+Print	main.c	/^static void Print ( void )$/;"	f	file:
+ProcessFile	filio.c	/^int ProcessFile ( char * DateiName )$/;"	f
+SetGroups	objects.c	/^void SetGroups   ( int i ) { *(GetAmountGroups  ()) = i ; } $/;"	f
+SetStudents	objects.c	/^void SetStudents ( int i ) { *(GetAmountStudents()) = i ; }$/;"	f
+TestPrint	liobs.c	/^void TestPrint ( void )$/;"	f
+UTIL	util.c	7;"	d	file:
+Usage	util.c	/^void Usage ( char * Name )$/;"	f
+White_Space	util.c	/^void White_Space (char * src)$/;"	f
+main	main.c	/^int main ( int argc, char ** argv )$/;"	f

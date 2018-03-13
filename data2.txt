@@ -1,0 +1,7 @@
+Schulz, 100, 2.3, +Edgar, +Maier,
+Maier, 33, 3.7,-Julli,+Zuzu,+Maier,+Maier,-Julli,
+Julli, 66, 1.0
+Edgar, 100, 2.7,-Zuzu,+Schulz,+Julli
+Zuzu, 66, 4.0,+Edgar,-Schulz,+Maier,+Maier,-Julli,
+Fischer, 33,2.0
+
