@@ -18,7 +18,7 @@ objects		= main.o filio.o liobs.o logic.o util.o objects.o
 tb097:	$(objects)
 		$(cc) $(objects) -o tb097
 
-main.o:	main.c filio.h liobs.h logic.h  util.h defs.h objects.h makefile
+main.o:		main.c filio.h liobs.h logic.h  util.h defs.h objects.h makefile
 		$(cc) $(cflags) $<
 
 logic.o:	logic.c logic.h  util.h defs.h objects.h makefile
@@ -33,6 +33,6 @@ liobs.o:	liobs.c liobs.h util.h defs.h objects.h makefile
 filio.o:	filio.c filio.h util.h liobs.h defs.h objects.h makefile
 		$(cc) $(cflags) $<
 
-util.o:	util.c util.h defs.h makefile
+util.o:		util.c util.h defs.h makefile
 		$(cc) $(cflags) $<
 
